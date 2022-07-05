@@ -1,0 +1,17 @@
+{
+  "name": "リンク集",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "link.html",
+    "default_icon": "電車のアイコン 3.png"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+F",
+        "mac": "MacCtrl+Shift+F"
+      }
+    }
+  }
+}
